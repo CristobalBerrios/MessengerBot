@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fbsamples/messenger-platform-samples.git"
+    "url": "git+https://github.com/CristobalBerrios/MessengerBot.git"
   },
-  "author": "Facebook",
+  "author": "Xiters",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
@@ -23,5 +23,10 @@
   },
   "engines": {
     "node": "~4.1.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/fbsamples/messenger-platform-samples/issues"
+  },
+  "homepage": "https://github.com/fbsamples/messenger-platform-samples#readme",
+  "devDependencies": {}
 }
